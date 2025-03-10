@@ -6,3 +6,6 @@ Added new Api key -
 [#29] Set up navigation concept for website.
 
 https://pmsdev.abc.courses/openproject/work_packages/29
+
+
+After modification of COnfig file
